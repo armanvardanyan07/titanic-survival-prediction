@@ -1,4 +1,4 @@
-````md
+
 # 🚢 Titanic Survival Prediction
 
 An end-to-end machine learning project for the famous Kaggle Titanic competition.
