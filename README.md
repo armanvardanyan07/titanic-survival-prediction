@@ -37,7 +37,7 @@ The project was created as a practical introduction to supervised machine learni
 .
 ├── train.csv
 ├── test.csv
-├── Titanic.ipynb
+├── Titanic_Comp.ipynb
 └── README.md
 ````
 
